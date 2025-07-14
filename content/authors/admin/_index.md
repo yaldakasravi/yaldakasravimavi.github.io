@@ -1,17 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Yalda
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yalda 
+last_name: Kasravi Mavi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,76 +19,76 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate ML/AI scientist 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Université de Montréal 
+    url: https://www.umontreal.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yaldakasravimavi@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/yaldakasravi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/yaldakasravi/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Data Analysis 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master Artificial Intelligence
+    institution: Université de Montréal 
+    date_start: 2023-01-01
+    date_end: 2025-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Master’s thesis on Secure Biometric Authentication using Vision Transformers, supervised by Prof. Abdelhakim Senhaji Hafid. Under review in TMLR Journal. Trained large-scale models combining face and fingerprint biometrics, enhancing robustness and privacy in decentralized systems.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Research Master’s
+    institution: University of Montreal
+    date_start: 2023-01-01
+    date_end: 2025-06-31
+    summary: | Artificial Intelligence
+      GPA: 3.4/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      - IFT6390B: Fundamentals of machine learning
+      - IFT6113: Geometric Modeling and Shape Analysis
+      - IFT6075: Human Machine Interaction
+      - COMP6411 : Comparative Study of Programming Languages
+  - area: Bachelors of Engineering 
+    institution: University of Azad Tehran
+    date_start: 2018-07-01
+    date_end: 2022-12-31
+    summary: | Computer Engineering
+      GPA: 3.8/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Science
+      - Networking
+      - Algorithms
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Assistant 
+    company_name: University of Montreal
+    company_url: 'https://www.umontreal.ca/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-03-01
+    date_end: 2025-05-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -103,9 +102,9 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed and implemented a decentralized machine learning framework for secure biometric authentication using face and fingerprint data.
+      - Developed and evaluated privacy-preserving techniques such as data augmentation, perturbation, and multi-modal integration to defend against gradient-based reconstruction attacks.
+      - Conducted empirical evaluations and benchmarking of model robustness, achieving significant improvements over ResNet and ViT baselines in terms of security and privacy.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,10 +143,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: French
     percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
